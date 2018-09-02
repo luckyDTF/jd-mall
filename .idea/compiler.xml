@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="generator" />
         <module name="jd-common" />
         <module name="jd-manager-dao" />
         <module name="jd-manager-interface" />
@@ -15,6 +16,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="generator" target="1.5" />
       <module name="jd-common" target="1.7" />
       <module name="jd-manager" target="1.7" />
       <module name="jd-manager-dao" target="1.7" />

@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/jd-parent/pom.xml" />
         <option value="$PROJECT_DIR$/jd-common/pom.xml" />
         <option value="$PROJECT_DIR$/jd-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/generator/pom.xml" />
       </list>
     </option>
   </component>

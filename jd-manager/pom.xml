@@ -17,7 +17,6 @@
         <module>../jd-manager-dao</module>
         <module>../jd-manager-interface</module>
         <module>../jd-manager-service</module>
-        <module>../jd-manager-web</module>
     </modules>
     <packaging>pom</packaging>
 

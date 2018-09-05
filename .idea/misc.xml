@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/jd-common/pom.xml" />
         <option value="$PROJECT_DIR$/jd-manager/pom.xml" />
         <option value="$PROJECT_DIR$/generator/pom.xml" />
+        <option value="$PROJECT_DIR$/jd-manager-web/pom.xml" />
       </list>
     </option>
   </component>
